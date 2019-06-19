@@ -1,1 +1,28 @@
 /* Compile your LESS file! */
+header{
+    display: flex;
+    justify-content: flex-end;
+}
+.intro{
+    background: pink;
+    height: 2rem;
+    width: 2rem auto;
+}
+.container-1{
+ background: pink;
+ 
+ 
+
+}
+h2{
+    background: pink;
+}
+h1{
+    font-size: 2.6rem;
+}
+img{
+    width: 50%;
+    height: 25%;
+    display: flex;
+    align-content: center;
+}
